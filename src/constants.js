@@ -13,3 +13,4 @@ export const getNextDeathTime = (clock) =>
 
 export const getNextPoopTime = (clock) =>
   Math.floor(Math.random() + 3) + 4 + clock;
+
