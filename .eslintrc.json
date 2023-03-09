@@ -2,10 +2,10 @@
   "extends": [
     "eslint:recommended",
     "plugin:import/errors",
-    "prettier",
+    "prettier"
   ],
   "rules": {
-    "no-console": 1,
+    "no-console": 1
   },
   "plugins": [
     "import"
